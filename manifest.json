@@ -1,0 +1,18 @@
+{
+   "content_scripts": [ {
+      "css": [ "style.css" ],
+      "matches": [ "https://www.messenger.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Changes default Facebook Messenger styling to a dark theme.",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjZvuShvQHbwrIjaexxCLLaX1Afse8JxlvnynS6QMqhNac7N/tY+aojFaR4NN8LDd7hIYq1s5bamt/Ssdp5FuSGjvFZXeGzo7JVCUSIN4ekx8osbNVfF7d01h4ImvAqkLIxLxLsj2wKXMQyHKFa88PhS2S0emKA6TeoQPrrzlquYW/11mDJCZ0sTupUrxSKvTb49iWmI+BBWhbOhJ77iSSZP4GGrGTzjtwOHzePjWZJ6Fhu2tR5V/YNvSIZmfRdqqamlpoPZdiCUoaXDGGplaQ0l61202yOhzlm/A7Foyz3uF+SaDAgqrH98wPQCSwifI6seQXI3FGcPvSnFfg2MF3wIDAQAB",
+   "manifest_version": 2,
+   "name": "Dark Messenger",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.16"
+}
