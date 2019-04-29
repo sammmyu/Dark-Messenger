@@ -6,6 +6,14 @@ div {
     border-color: rgba(223, 224, 230, 0.10) !important;
     /*margin-left: -1px;*/
 }
+
+hr{ 
+  height: 1px;
+  color: red;
+  background-color: red;
+  border: none;
+}
+
 .uiScrollableArea.nofade .uiScrollableAreaWrap,
 .uiScrollableArea.fade .uiScrollableAreaWrap {
     background: #2E3136 !important;
@@ -269,4 +277,30 @@ a#js_1j {
 }
 ._1er4 {
     background-color: #2e3136 !important;
+}
+/*Edit Nickname box*/
+._4eby._2c9i {
+    background-color: #2E3136;
+}
+h2._4ebz {
+    background-color: #2E3136;
+}
+._19jt {
+    color: #b2b3b8!important;
+}
+._3q34 {
+    color: #b2b3b8 !important;
+}
+._3q35 {
+    color: #b2b3b8 !important;
+}
+._2c9i ._4ebz {
+    border-bottom: 2px solid rgb(145, 144, 144) !important;
+}
+._4ebx ._59s7>div {
+    background: #2E3136 !important;
+}
+/*Image Selector*/
+._40jj._5l-3 {
+    background-color: #2E3136 !important;
 }
