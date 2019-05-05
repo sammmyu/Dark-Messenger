@@ -236,9 +236,6 @@ input._260t._n._2__f._4e5e {
 ._3szq {
     color: #b2b3b8 !important;
 }
-a {
-    color: #0084ff !important;
-}
 h4._1lj0 {
     color: #b2b3b8;
 }
@@ -303,4 +300,35 @@ h2._4ebz {
 /*Image Selector*/
 ._40jj._5l-3 {
     background-color: #2E3136 !important;
+}
+
+/*links*/
+._5swm {
+    background-color: #f1f0f0;
+}
+/*remove message box*/
+._4eby._2c9g {
+    background-color: #2E3136;
+}
+h2._4ebz._7491 {
+    color: #b2b3b8;
+}
+label.uiInputLabelLabel {
+    color: #b2b3b8 !important;
+}
+._7492 {
+    color: rgba(178, 179, 184, 1) !important;
+    margin: 8px 30px 26px !important;
+}
+._hw4 ._hw5 {
+    color: #b2b3b8 !important;
+}
+a {
+    color: black !important;
+}
+span._6ybk.{
+	color: #0084ff !important;
+}
+a {
+    color: inherit !important;
 }
