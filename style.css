@@ -307,6 +307,9 @@ h2._4ebz {
     background-color: #f1f0f0;
 }
 /*remove message box*/
+button._3quh._30yy._2u0._5ixy.layerCancel {
+    color: #0084ff !important;
+}
 ._4eby._2c9g {
     background-color: #2E3136;
 }
@@ -331,4 +334,10 @@ span._6ybk.{
 }
 a {
     color: inherit !important;
+}
+h2._4ebz {
+    color: #b2b3b8;
+}
+._225b {
+    color: #b2b3b8 !important;
 }
